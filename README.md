@@ -15,7 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-*(Add a screenshot of your finished project here. You can take a screenshot of your browser and save it to the `/images` folder, then update this path: `![Design preview for the QR code coding challenge](./images/screenshot.png)`)*
+<img width="2850" height="1524" alt="Screenshot 2026-05-22 230338" src="https://github.com/user-attachments/assets/55869d66-71c0-4f68-8582-67c9722ec7c5" />
+
 
 ### Links
 
